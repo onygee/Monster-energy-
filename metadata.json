@@ -1,0 +1,8 @@
+{
+  "name": "Monster Energy: Unleash the Beast",
+  "description": "A high-octane, interactive brand experience featuring 3D product visualization, high-energy lifestyle content, and community features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
